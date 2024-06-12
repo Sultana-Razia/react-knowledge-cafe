@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
         "title": "The Dawn of AI",
         "author": "Jane Doe",
         "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "cover": "https://images.unsplash.com/photo-1517821362611-1a4bb4860d0d",
+        "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
         "title": "Exploring the Depths of the Ocean",
         "author": "John Smith",
         "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
@@ -43,7 +43,7 @@
     },
     {
         "id": 4,
-        "cover": "https://images.unsplash.com/photo-1564995662201-e53c0879f4c3",
+        "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
         "title": "Advancements in Renewable Energy",
         "author": "Michael Brown",
         "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
@@ -57,7 +57,7 @@
     },
     {
         "id": 5,
-        "cover": "https://images.unsplash.com/photo-1581091870621-3ae8906baf2b",
+        "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
         "title": "The Future of Space Travel",
         "author": "Emily White",
         "author_img": "https://images.unsplash.com/photo-1506345926608-8b9a1ed9b93d",
